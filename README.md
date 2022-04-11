@@ -1,2 +1,4 @@
-# prueba1
-para nuestro proyecto de prueba
+# PROYECTO DE PRUEBA
+## APLICIONES DIVERSAS
+### TE ESPERO!
+Manual de Usuario
